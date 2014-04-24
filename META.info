@@ -22,7 +22,7 @@
         "HTTP::Easy",
         "HTTP::Status",
         "LWP::Simple",
-        "Rakudo::Debugger",
+        "Debugger::UI::CommandLine",
         "SVG",
         "SVG::Plot",
         "Test::Mock",
