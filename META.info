@@ -16,7 +16,7 @@
         "JSON::Tiny",
         "JSON::RPC",
         "panda",
-        "File::Tools",
+        "File::Find",
         "Term::ANSIColor",
         "Digest::MD5",
         "HTTP::Easy",
