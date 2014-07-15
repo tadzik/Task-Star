@@ -3,7 +3,6 @@
     "version"     : "*",
     "description" : "Meta-package for modules included in Rakudo Star",
     "depends"     : [ 
-        "Bailador",
         "DBIish",
         "Grammar::Profiler::Simple",
         "Math::Model",
