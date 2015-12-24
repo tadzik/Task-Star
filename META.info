@@ -10,6 +10,8 @@
         "SVG::Plot",
         "Terminal::ANSIColor",
         "Test::Mock",
+        "Grammar::Profiler::Simple",
+        "Grammar::Debugger",
         "JSON::Tiny",
         "Digest::MD5",
         "panda",
