@@ -7,7 +7,7 @@ perl6:
   - latest
 install:
   - rakudobrew build-zef
-  - zef install .
+  - zef --debug install .
 script:
   - perl6 -e 'say "1..1\nok 1"'
 branches:
